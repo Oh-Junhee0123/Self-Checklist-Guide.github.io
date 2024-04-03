@@ -1,6 +1,6 @@
 # Self-Checklist-Guide.github.io
 
-
+<b>The [Self-Checklist Guide](https://oh-junhee0123.github.io/Self-Checklist-Guide.github.io/) is part of the [CS Requirement Finder](https://oh-junhee0123.github.io/CS-Requirement-Finder.github.io/).</b>
 
 # CS Requirement Finder
 
